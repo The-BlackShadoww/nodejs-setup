@@ -1,3 +1,3 @@
-# NodeJS Foundational project
+# NodeJS Set Up
 
-This is a fundamental project with nodejs.
+This is proper set up for a nodejs project.
